@@ -1,0 +1,5 @@
+/coreum
+/cosmos-sdk
+/node_modules
+/proto*
+package*.json

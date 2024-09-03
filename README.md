@@ -26,10 +26,10 @@ npm install @bufbuild/protobuf @bufbuild/protoc-gen-es @bufbuild/buf
 git clone git@github.com:CoreumFoundation/coreum.git
 ```
 
-2. Clone the Cosmos SDK repository with the branch that you want, in this case we are going to clone the `v0.47.5` branch, but you can use any branch you want.
+2. Clone the Cosmos SDK repository with the branch that you want, in this case we are going to clone the `v0.50.8` branch, but you can use any branch you want.
 
 ```bash
-git clone --branch v0.47.5 git@github.com:cosmos/cosmos-sdk.git
+git clone --branch v0.50.8 git@github.com:cosmos/cosmos-sdk.git
 ```
 
 3. Copy all the proto files in the current directory.
